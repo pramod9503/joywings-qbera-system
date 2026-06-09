@@ -312,10 +312,10 @@ making it a complete end-to-end software product rather than a standalone applic
  
 ## QuestionBook Editor
 ### Opening Window 
-<img src="screenshots/Joywings%20QuestionBook%20Editor%20Screenshots/New%20Menu.png" alt="Joywings QuestionBook Editor New Menu" width="1024" Height="768">
+<img src="screenshots/Joywings%20QuestionBook%20Editor%20Screenshots/New%20Menu.png" alt="Joywings QuestionBook Editor New Menu" width="960" Height="600">
 
 ### Opened Question Paper
-<img src="screenshots/Joywings%20QuestionBook%20Editor%20Screenshots/Simulate%20menu.png" alt="Joywings QuestionBook Editor Question Paper" width="1024" Height="768">
+<img src="screenshots/Joywings%20QuestionBook%20Editor%20Screenshots/Simulate%20menu.png" alt="Joywings QuestionBook Editor Question Paper" width="960" Height="600">
 
 ---
  
