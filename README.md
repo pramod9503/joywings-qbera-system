@@ -306,7 +306,7 @@ making it a complete end-to-end software product rather than a standalone applic
  
 ## QuestionBook Reader
 ### Welcome Window 
-![Joywings QuestionBook Reader Screenshot](screenshots/Joywings%20QuestionBook%20Reader%20Screenshots/Welcome.png)
+<img src="screenshots/Joywings%20QuestionBook%20Reader%20Screenshots/Welcome.png" alt="Joywings QuestionBook Reader Screenshot" width="640" Height="400">
 
 ### Exam Window
 <img src="screenshots/Joywings%20QuestionBook%20Reader%20Screenshots/Offline%20Exam_6.png" alt="Test Window" width="640" Height="400">
