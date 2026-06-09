@@ -1,14 +1,24 @@
 # 📘 Joywings QuestionBook System
  
 <div align="center">
+ # 🧠 Joywings QuestionBook System
  
+### Offline Examination & Licensing Platform
+ 
+**Developed under the Joywings Inc. product identity (2016–2018)**  
+*(Informal product brand, not a legally registered company)*
+
+---
+
 ![Platform](https://img.shields.io/badge/Platform-Windows-blue)
 ![Framework](https://img.shields.io/badge/.NET-Framework-purple)
 ![Application](https://img.shields.io/badge/Desktop-WPF%20%7C%20WinForms-green)
 ![License](https://img.shields.io/badge/License-Proprietary-red)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
- 
-An Offline Examination Platform with Question Authoring, Packaging, Distribution and Licensing System
+
+---
+
+An Offline Examination Platform with Question Authoring, Packaging, Distribution and Licensing System.
  
 </div>
  
@@ -279,12 +289,12 @@ Independent Software Developer
 Areas of Interest:
  
 - .NET Development
+- - ASP.NET Core
 - Desktop Applications
 - Educational Software
 - SaaS Products
 - WPF
-- ASP.NET Core
- 
+- .NET MAUI 
 ---
  
 # ⭐ Why This Project Matters
@@ -305,26 +315,25 @@ making it a complete end-to-end software product rather than a standalone applic
 # 📸 Screenshots
  
 ## QuestionBook Reader
-### Welcome Window 
+#### Welcome Window 
 <img src="screenshots/Joywings%20QuestionBook%20Reader%20Screenshots/Welcome.png" alt="Joywings QuestionBook Reader Screenshot" width="640" Height="400">
 
-### Exam Window
+#### Exam Simulation
 <img src="screenshots/Joywings%20QuestionBook%20Reader%20Screenshots/Offline%20Exam_6.png" alt="Test Window" width="640" Height="400">
  
 ---
  
 ## QuestionBook Editor
-### Opening Window 
+#### Opening Window 
 <img src="screenshots/Joywings%20QuestionBook%20Editor%20Screenshots/New%20Menu.png" alt="Joywings QuestionBook Editor New Menu" width="640" Height="400">
 
-### Opened Question Paper
+#### Opened Question Paper
 <img src="screenshots/Joywings%20QuestionBook%20Editor%20Screenshots/Simulate%20menu.png" alt="Joywings QuestionBook Editor Question Paper" width="640" Height="400">
 
 ---
  
 ## QuestionBook Activator
- ![Joywings QuestionBook Activator Screenshot](screenshots/Joywings%20QuestionBook%20Activator%20Screenshots/File%20Menu.png)
- 
+ <img src="screenshots/Joywings%20QuestionBook%20Activator%20Screenshots/File%20Menu.png" alt="Joywings QuestionBook Activator Screenshot" width="640" Height="400">
 ---
  
 # 📄 License
