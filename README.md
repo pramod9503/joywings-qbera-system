@@ -244,7 +244,7 @@ Result:
  
 ## QuestionBook Reader
  
-![Joywings QuestionBook Reader Screenshot](screenshots/Joywings QuestionBook Reader Screenshots/Welcome.png)
+![Joywings QuestionBook Reader Screenshot](screenshots/Joywings%20QuestionBook%20Reader%20Screenshots/Welcome.png)
  
 ---
  
