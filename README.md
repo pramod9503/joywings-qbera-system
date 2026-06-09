@@ -305,17 +305,20 @@ making it a complete end-to-end software product rather than a standalone applic
 # 📸 Screenshots
  
 ## QuestionBook Reader
- 
+### Welcome Window 
 ![Joywings QuestionBook Reader Screenshot](screenshots/Joywings%20QuestionBook%20Reader%20Screenshots/Welcome.png)
+
+### Exam Window
+<img src="screenshots/Joywings%20QuestionBook%20Reader%20Screenshots/Offline%20Exam_6.png" alt="Test Window" width="640" Height="400">
  
 ---
  
 ## QuestionBook Editor
 ### Opening Window 
-<img src="screenshots/Joywings%20QuestionBook%20Editor%20Screenshots/New%20Menu.png" alt="Joywings QuestionBook Editor New Menu" width="960" Height="600">
+<img src="screenshots/Joywings%20QuestionBook%20Editor%20Screenshots/New%20Menu.png" alt="Joywings QuestionBook Editor New Menu" width="640" Height="400">
 
 ### Opened Question Paper
-<img src="screenshots/Joywings%20QuestionBook%20Editor%20Screenshots/Simulate%20menu.png" alt="Joywings QuestionBook Editor Question Paper" width="960" Height="600">
+<img src="screenshots/Joywings%20QuestionBook%20Editor%20Screenshots/Simulate%20menu.png" alt="Joywings QuestionBook Editor Question Paper" width="640" Height="400">
 
 ---
  
