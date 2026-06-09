@@ -26,7 +26,8 @@ An Offline Examination Platform with Question Authoring, Packaging, Distribution
 |------------|---------|----------|
 | 🖥️ QuestionBook Reader | 2.1.17 | [⬇ Download Installer](../../releases/latest) |
 | 🧩 QuestionBook Editor | 1.1.55 | [⬇ Download Installer](../../releases/latest) |
- 
+| 📜 Detailed Documentation | 1.3 | [⬇ Download Documentation](docs/Joywings%20QB%20Reader%20-%20Editor%20-%20Activator%20Documentation_1.3.pdf) |
+
 > ⚠️ Note: Installers are available under the GitHub Releases section.
  
 </div>
@@ -293,7 +294,7 @@ This project demonstrates experience in:
  
 ### Pramod R. Gajbhiye
  
-Independent Software Developer
+Senior .NET Developer | Independent Software Developer
  
 Areas of Interest:
  
