@@ -95,7 +95,9 @@ The system enables content creators to:
  
 # 🏗️ Architecture
 <img src="screenshots/Architecture.png" alt="Architecture">
- 
+
+<img src="screenshots/Dummy_Architecture.png" alt="Dummy Architecture">
+
 ---
  
 # 📦 Applications
@@ -308,6 +310,8 @@ making it a complete end-to-end software product rather than a standalone applic
  
 ## QuestionBook Activator
  <img src="screenshots/Joywings%20QuestionBook%20Activator%20Screenshots/File%20Menu.png" alt="Joywings QuestionBook Activator Screenshot">
+
+ > For more images browse the screenshots folder.
 ---
  
 # 📄 License
