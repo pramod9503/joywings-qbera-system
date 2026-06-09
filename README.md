@@ -237,29 +237,7 @@ Result:
 - File Packaging System
 - Cryptographic Hashing
 - Offline Licensing Engine
- 
----
- 
-# 📸 Screenshots
- 
-## QuestionBook Reader
- 
-![Joywings QuestionBook Reader Screenshot](screenshots/Joywings%20QuestionBook%20Reader%20Screenshots/Welcome.png)
- 
----
- 
-## QuestionBook Editor
- 
-![Editor Screenshot](images/editor.png)
- 
----
- 
-## QuestionBook Activator
- 
-![Activator Screenshot](images/activator.png)
- 
----
- 
+  
 # 🎯 Real-World Problems Solved
  
 ✅ Offline Examination Delivery
@@ -321,6 +299,28 @@ Unlike a simple CRUD application, this project includes:
 - Analytics dashboard
  
 making it a complete end-to-end software product rather than a standalone application.
+ 
+---
+ 
+# 📸 Screenshots
+ 
+## QuestionBook Reader
+ 
+![Joywings QuestionBook Reader Screenshot](screenshots/Joywings%20QuestionBook%20Reader%20Screenshots/Welcome.png)
+ 
+---
+ 
+## QuestionBook Editor
+# Opening Window 
+![Joywings QuestionBook Editor Screenshot New Menu](screenshots/Joywings%20QuestionBook%20Editor%20Screenshots/New%20Menu.png)
+
+# Opened Question Paper
+![Joywings QuestionBook Editor Question Paper](screenshots/Joywings%20QuestionBook%20Editor%20Screenshots/Simulate%20Menu.png)
+ 
+---
+ 
+## QuestionBook Activator
+ ![Joywings QuestionBook Activator Screenshot](screenshots/Joywings%20QuestionBook%20Activator%20Screenshots/File%20Menu.png)
  
 ---
  
