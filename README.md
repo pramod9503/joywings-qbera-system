@@ -1,11 +1,9 @@
-# 📘 Joywings QuestionBook System
+<div align="center"> 
  
-<div align="center">
- # 🧠 Joywings QuestionBook System
- 
+# 📘 Joywings QuestionBook System 
 ### Offline Examination & Licensing Platform
  
-**Developed under the Joywings Inc. product identity (2016–2018)**  
+**Developed under the Joywings Inc. product identity (2016–2019)**  
 *(Informal product brand, not a legally registered company)*
 
 ---
@@ -19,6 +17,17 @@
 ---
 
 An Offline Examination Platform with Question Authoring, Packaging, Distribution and Licensing System.
+
+## 📥 Downloads
+ 
+### 🚀 Latest Release
+ 
+| Application | Version | Download |
+|------------|---------|----------|
+| 🖥️ QuestionBook Reader | 2.1.17 | [⬇ Download Installer](../../releases/latest) |
+| 🧩 QuestionBook Editor | 1.1.55 | [⬇ Download Installer](../../releases/latest) |
+ 
+> ⚠️ Note: Installers are available under the GitHub Releases section.
  
 </div>
  
@@ -289,7 +298,7 @@ Independent Software Developer
 Areas of Interest:
  
 - .NET Development
-- - ASP.NET Core
+- ASP.NET Core
 - Desktop Applications
 - Educational Software
 - SaaS Products
@@ -316,7 +325,7 @@ making it a complete end-to-end software product rather than a standalone applic
  
 ## QuestionBook Reader
 #### Welcome Window 
-<img src="screenshots/Joywings%20QuestionBook%20Reader%20Screenshots/Welcome.png" alt="Joywings QuestionBook Reader Screenshot" width="640" Height="400">
+<img src="screenshots/Joywings%20QuestionBook%20Reader%20Screenshots/Welcome.png" alt="Joywings QuestionBook Reader Screenshot">
 
 #### Exam Simulation
 <img src="screenshots/Joywings%20QuestionBook%20Reader%20Screenshots/Offline%20Exam_6.png" alt="Test Window" width="640" Height="400">
@@ -333,7 +342,7 @@ making it a complete end-to-end software product rather than a standalone applic
 ---
  
 ## QuestionBook Activator
- <img src="screenshots/Joywings%20QuestionBook%20Activator%20Screenshots/File%20Menu.png" alt="Joywings QuestionBook Activator Screenshot" width="640" Height="400">
+ <img src="screenshots/Joywings%20QuestionBook%20Activator%20Screenshots/File%20Menu.png" alt="Joywings QuestionBook Activator Screenshot">
 ---
  
 # 📄 License
