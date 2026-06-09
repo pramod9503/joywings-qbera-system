@@ -94,43 +94,7 @@ The system enables content creators to:
 ---
  
 # 🏗️ Architecture
- 
-```text
-┌────────────────────┐
-│ QuestionBook Editor│
-└─────────┬──────────┘
-          │
-          ▼
-     Export .PXT
-          │
-          ▼
-┌────────────────────┐
-│ Package Generator  │
-└─────────┬──────────┘
-          │
-          ▼
-      Create .PKG
-          │
-          ▼
-┌────────────────────┐
-│ QuestionBook Reader│
-└─────────┬──────────┘
-          │
-          ▼
-Generate Serial No.
-          │
-          ▼
-┌────────────────────┐
-│ QuestionBook       │
-│ Activator          │
-└─────────┬──────────┘
-          │
-          ▼
-  Activation Key
-          │
-          ▼
-Licensed Package
-```
+<img src="screenshots/Architecture.png" alt="Architecture">
  
 ---
  
