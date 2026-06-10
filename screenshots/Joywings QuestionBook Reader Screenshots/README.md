@@ -81,7 +81,7 @@
 
 ![Reader offline exam window 16](Offline%20Exam_16.png)
 
-### View statistics
+### Statistics and analysis
 ![Reader_statistics 1](Statistics_1.png)
 
 ![Reader_statistics 2](Statistics_2.png)
@@ -108,4 +108,28 @@
 
 ![Reader_statistics 13](Statistics_13.png)
 
- 
+### Joywings Dummy Test
+![Reader_dummy test 1](Dummy_1.png)
+
+![Reader_dummy test 2](Dummy_2.png)
+
+![Reader_dummy test 3](Dummy_3.png)
+
+![Reader_dummy test 4](Dummy_4.png)
+
+![Reader_dummy test 5](Dummy_5.png)
+
+![Reader_dummy test 7](Dummy_6.png)
+
+### Dummy test statistics and analysis
+![Reader_dummy test statistics and analysis 1](Dummy%20Statistics_1.png)
+
+![Reader_dummy test statistics and analysis 2](Dummy%20Statistics_2.png)
+
+![Reader_dummy test statistics and analysis 3](Dummy%20Statistics_3.png)
+
+![Reader_dummy test statistics and analysis 4](Dummy%20Statistics_4.png)
+
+![Reader_dummy test statistics and analysis 5](Dummy%20Statistics_5.png)
+
+![Reader_dummy test statistics and analysis 6](Dummy%20Statistics_6.png)
