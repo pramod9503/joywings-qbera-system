@@ -1,9 +1,10 @@
 <div align="center"> 
  
-# 📘 Joywings QuestionBook System 
+# 📘 Joywings QBERA System
+## QuestionBook Editor . Reader . Activator Platform
 ### Offline Examination & Licensing Platform
  
-**Developed under the Joywings Inc. product identity (2016–2019)**  
+**Developed under the Joywings Inc. product identity (2016–2020)**  
 *(Informal product brand, not a legally registered company)*
 
 ---
@@ -36,8 +37,13 @@ An Offline Examination Platform with Question Authoring, Packaging, Distribution
  
 # 📖 Overview
  
-The **Joywings QuestionBook System** is a complete desktop-based examination ecosystem designed for educational institutes, coaching classes, training organizations, and self-learning platforms.
- 
+The **Joywings QBERA System** is a complete desktop-based examination ecosystem designed for educational institutes, coaching classes, training organizations, and self-learning platforms.
+The system consists of three core applications:
+
+- Joywings QuestionBook Editor
+- Joywings QuestionBook Reader
+- Joywings QuestionBook Activator
+
 The system enables content creators to:
  
 - Create question papers
@@ -45,9 +51,10 @@ The system enables content creators to:
 - Distribute them to candidates
 - Conduct offline examinations
 - Protect premium content using activation keys
- 
----
- 
+  
+ > QBERA (Pronounced as 'Kyubera') is an acronym derived from the initials of these three components - QuestionBook Editor, Reader and Activator. It represents the complete examination, packaging and licensing platform. 
+
+--- 
 # ✨ Key Features
  
 ## 📝 Question Authoring
@@ -93,16 +100,16 @@ The system enables content creators to:
  
 ---
  
-# 🏗️ Architecture
+# 🏗️ QBERA Architecture
 <img src="screenshots/Architecture.png" alt="Architecture">
 
 <img src="screenshots/Dummy_Architecture.png" alt="Dummy Architecture">
 
 ---
  
-# 📦 Applications
+# 📦 QBERA Applications
  
-## 🧩 QuestionBook Editor (JQE)
+## 🧩 Joywings QuestionBook Editor (JQE)
  
 Creates and edits question papers.
  
@@ -118,7 +125,7 @@ Creates and edits question papers.
  
 ---
  
-## 🖥️ QuestionBook Reader (JQR)
+## 🖥️ Joywings QuestionBook Reader (JQR)
  
 Used by candidates.
  
@@ -133,7 +140,7 @@ Used by candidates.
  
 ---
  
-## 🔐 QuestionBook Activator (JQA)
+## 🔐 Joywings QuestionBook Activator (JQA)
  
 License management system.
  
@@ -213,6 +220,7 @@ Result:
 ### Development
  
 - Visual Basic 6 (Earlier versions)
+- VB.NET
 - C#
 - .NET Framework
 - Windows Desktop Development
@@ -284,13 +292,13 @@ Unlike a simple CRUD application, this project includes:
 - Activation workflow
 - Analytics dashboard
  
-making it a complete end-to-end software product rather than a standalone application.
+Making it a complete end-to-end software product rather than a standalone application.
  
 ---
  
 # 📸 Screenshots
  
-## QuestionBook Reader
+## Joywings QuestionBook Reader
 #### Welcome Window 
 <img src="screenshots/Joywings%20QuestionBook%20Reader%20Screenshots/Welcome.png" alt="Joywings QuestionBook Reader Screenshot">
 
@@ -299,7 +307,7 @@ making it a complete end-to-end software product rather than a standalone applic
  
 ---
  
-## QuestionBook Editor
+## Joywings QuestionBook Editor
 #### Opening Window 
 <img src="screenshots/Joywings%20QuestionBook%20Editor%20Screenshots/Editor_Home.png" alt="Joywings QuestionBook Editor New Menu" width="640" Height="400">
 
@@ -308,7 +316,7 @@ making it a complete end-to-end software product rather than a standalone applic
 
 ---
  
-## QuestionBook Activator
+## Joywings QuestionBook Activator
  <img src="screenshots/Joywings%20QuestionBook%20Activator%20Screenshots/Activator_7.png" alt="Joywings QuestionBook Activator Screenshot">
 
  > For more images browse the screenshots folder.
