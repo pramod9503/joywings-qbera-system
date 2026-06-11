@@ -140,3 +140,102 @@
 
 ![Reader_dummy test statistics and analysis 6](Joywings%20QuestionBook%20Reader%20Screenshots/Dummy%20Statistics_6.png)
 
+---
+
+<div align="center">
+  
+  ## Joywings QuestionBook Activator
+  
+</div>
+
+- ### Import QuestionBook from Joywings QuestionBook Activator Home window
+- This is one time process per QuestionBook
+
+![Activator Home window](Joywings%20QuestionBook%20Activator%20Screenshots/Activator_0.png)
+
+- ### Selecting the QuestionBook
+![Activator select the QuestionBook](Joywings%20QuestionBook%20Activator%20Screenshots/Activator_1.png)
+
+- ### QuestionBook imported successfully
+![Activator successful import](Joywings%20QuestionBook%20Activator%20Screenshots/Activator_2.png)
+
+- ### Inserting Joywings IDs
+![Activator insert Joywings IDs](Joywings%20QuestionBook%20Activator%20Screenshots/Activator_3.png)
+
+- ### Retreiving available Joywings IDs
+![Activator retreiving Joywings IDs](Joywings%20QuestionBook%20Activator%20Screenshots/Activator_4.png)
+
+- ### Joywings QuestionBook Reader - Selected paid QuestionBook profile
+![Joywings QuestionBook Reader - Selected paid QuestionBook profile](Joywings%20QuestionBook%20Activator%20Screenshots/Activator_5.png)
+
+- ### Joywings QuestionBook Reader - Serial number generation
+![Joywings QuestionBook Reader - Serial number generation](Joywings%20QuestionBook%20Activator%20Screenshots/Activator_6.png)
+
+- ### Key generation
+![Activator - key generation](Joywings%20QuestionBook%20Activator%20Screenshots/Activator_7.png)
+
+- ### Joywings QuestionBook Reader - Insert key
+![Joywings QuestionBook Reader - Insert key](Joywings%20QuestionBook%20Activator%20Screenshots/Activator_8.png)
+
+- ### Joywings QuestionBook Reader - Successful import
+![Joywings QuestionBook Reader - Insert key](Joywings%20QuestionBook%20Activator%20Screenshots/Activator_9.png)
+
+---
+
+<div align="center">
+  
+  ## Joywings QuestionBook Editor
+  
+</div>
+
+- ### Installation
+![Editor installation 1](Joywings%20QuestionBook%20Editor%20Screenshots/Installation_1.png)
+
+![Editor installation 2](Joywings%20QuestionBook%20Editor%20Screenshots/Installation_2.png)
+
+![Editor installation 3](Joywings%20QuestionBook%20Editor%20Screenshots/Installation_3.png)
+
+![Editor installation 4](Joywings%20QuestionBook%20Editor%20Screenshots/Installation_4.png)
+
+![Editor installation 5](Joywings%20QuestionBook%20Editor%20Screenshots/Installation_5.png)
+
+- ### Creating profile
+![Editor profile creation 1](Joywings%20QuestionBook%20Editor%20Screenshots/Profile_1.png)
+
+![Editor profile creation 2](Joywings%20QuestionBook%20Editor%20Screenshots/Profile_2.png)
+
+![Editor profile creation 3](Joywings%20QuestionBook%20Editor%20Screenshots/Profile_3.png)
+
+- ### Vendor registration
+![Editor vendor registration](Joywings%20QuestionBook%20Editor%20Screenshots/Vendor.png)
+
+- ### Editor home
+![Editor home window](Joywings%20QuestionBook%20Editor%20Screenshots/Editor_Home.png)
+
+![Editor Simulate menu](Joywings%20QuestionBook%20Editor%20Screenshots/Simulate%20menu.png)
+
+![Editor Export](Joywings%20QuestionBook%20Editor%20Screenshots/Export%20Menu.png)
+
+- ### Automatic instructions generation
+![Editor instructions generation 1](Joywings%20QuestionBook%20Editor%20Screenshots/Live%20Instructions.png)
+
+![Editor instructions generation 2](Joywings%20QuestionBook%20Editor%20Screenshots/Live%20Instructions%202.png)
+
+![Editor full instructions generation](Joywings%20QuestionBook%20Editor%20Screenshots/Full%20Instructions.png)
+
+- ### View Mark statements and answer key
+![Editor mark statement](Joywings%20QuestionBook%20Editor%20Screenshots/Mark%20Statement.png)
+
+![Editor answer key](Joywings%20QuestionBook%20Editor%20Screenshots/Answer%20Key.png)
+
+- ### View automatically generated instructions simulation
+![Editor view instructions 1](Joywings%20QuestionBook%20Editor%20Screenshots/Instructions_1.png)
+
+![Editor view instructions 2](Joywings%20QuestionBook%20Editor%20Screenshots/Instructions_2.png)
+
+- ### Packaging question papers in QuestionBooks
+![Editor packaging question papers 3](Joywings%20QuestionBook%20Editor%20Screenshots/Packaging_empty.png)
+
+![Editor packaging question papers 1](Joywings%20QuestionBook%20Editor%20Screenshots/Packaging_0.png)
+
+![Editor packaging question papers 2](Joywings%20QuestionBook%20Editor%20Screenshots/Packaging_1.png)
