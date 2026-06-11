@@ -1,8 +1,8 @@
-Copyright (c) 2016–2019 Pramod R. Gajbhiye
+Copyright (c) 2016–2020 Pramod R. Gajbhiye
  
 All rights reserved.
  
-This software and associated files (the "Software") were designed and developed between 2016 and 2019 under the product brand name **"Joywings QuestionBook System"**, associated with the informal project identity **"Joywings Inc."**
+This software and associated files (the "Software") were designed and developed between 2016 and 2019 under the product brand name **"Joywings QBERA System"**, associated with the informal project identity **"Joywings Inc."**
  
 Note: "Joywings Inc." is a product branding name used by the author and does not represent a legally registered company entity.
  
@@ -24,4 +24,4 @@ This Software is provided "as is", without warranty of any kind.
 The author is not responsible for any damages, data loss, or misuse arising from its use.
  
 ## Note
-This project represents an offline examination and licensing system developed under the **Joywings QuestionBook System** brand, showcasing software engineering, system design, and desktop application development work completed between 2016–2019.
+This project represents an offline examination and licensing system developed under the **Joywings QBERA System** brand, showcasing software engineering, system design, and desktop application development work completed between 2016–2020.
