@@ -319,7 +319,7 @@ Making it a complete end-to-end software product rather than a standalone applic
 ## Joywings QuestionBook Activator
  <img src="screenshots/Joywings%20QuestionBook%20Activator%20Screenshots/Activator_7.png" alt="Joywings QuestionBook Activator Screenshot">
 
- > For more images browse the screenshots folder.
+ > Additional screenshots are available in the [screenshots](./scrrenshots) folder.
 ---
  
 # 📄 License
