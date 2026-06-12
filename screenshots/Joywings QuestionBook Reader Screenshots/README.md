@@ -1,4 +1,4 @@
-### Installing Joywings QuestionBook Reader
+- ### Installing Joywings QuestionBook Reader
  ![Reader installer screenshot 1](Installer_1.png)
 
  ![Reader installer screenshot 2](Installer_2.png)
@@ -15,13 +15,13 @@
 
  ![Reader installer screenshot 8](Installer_8.png)
 
-### Application startup
+- ### Application startup
  ![Reader startup screenshot](Startup.png)
 
-### Login window
+- ### Login window
  ![Reader login window](Login.png)
 
-### Candidate registration
+- ### Candidate registration
 ![Reader candidate registration window 1](Profile_1.png)
 
 ![Reader candidate registration window 2](Profile_2.png)
@@ -30,10 +30,10 @@
 
 ![Reader candidate registration completed](Profile_3.png)
 
-### Welcome window
+- ### Welcome window
 ![Reader Welcome window](Welcome.png)
 
-### Importing QuestionBooks
+- ### Importing QuestionBooks
 ![Reader QuestionBook Import window 1](Import_1.png)
 
 ![Reader QuestionBook Import window 2](Import_2.png)
@@ -48,7 +48,7 @@
 
 ![Reader QuestionBook Import window 6](Import_6_paid.png)
 
-### Appearing for tests
+- ### Appearing for tests
 ![Reader offline exam window 1](Offline%20Exam_1.png)
 
 ![Reader offline exam window 2](Offline%20Exam_2.png)
@@ -81,7 +81,7 @@
 
 ![Reader offline exam window 16](Offline%20Exam_16.png)
 
-### Statistics and analysis
+- ### Statistics and analysis
 ![Reader_statistics 1](Statistics_1.png)
 
 ![Reader_statistics 2](Statistics_2.png)
@@ -108,7 +108,7 @@
 
 ![Reader_statistics 13](Statistics_13.png)
 
-### Joywings Dummy Test
+- ### Joywings Dummy Test
 ![Reader_dummy test 1](Dummy_1.png)
 
 ![Reader_dummy test 2](Dummy_2.png)
@@ -121,7 +121,7 @@
 
 ![Reader_dummy test 7](Dummy_6.png)
 
-### Dummy test statistics and analysis
+- ### Dummy test statistics and analysis
 ![Reader_dummy test statistics and analysis 1](Dummy%20Statistics_1.png)
 
 ![Reader_dummy test statistics and analysis 2](Dummy%20Statistics_2.png)
